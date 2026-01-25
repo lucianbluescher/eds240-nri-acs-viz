@@ -1,6 +1,8 @@
 # Visualizing FEMA National Risk Index Data
 ### Lucian Scher
 
+<img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/d597f46b-15ff-4d0b-86d9-f797e9c06f8a" />
+
 ## Purpose
 
 This repository produces an analysis focusing on data visualization technique practice using FEMA National Risk Index (NRI) data. The primary objective is to explore how FEMA NRI scores for counties in California compare to those in other states through effective, accessible, and aesthetically-pleasing visualizations built in R using the ggplot2 package.
