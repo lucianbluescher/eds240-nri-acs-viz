@@ -16,16 +16,15 @@ This repository is organized as follows:
 eds240-nri-acs-viz/
 ├── .gitignore
 ├── README.md
-├── HW2.qmd
+├── HW2.qmd                               # Reproducible qmd file
 ├── HW2.html
-├── HW2_files/
-├── Visualizing FEMA NRI Data.pdf # Rendered proejct
+├── HW2_files/                            # Contains figures
+├── Visualizing FEMA NRI Data.pdf         # Rendered project for submission
 └── eds240-nri-acs-viz.Rproj
 ```
 
 **Key Files:**
 - `HW2.qmd`: Quarto document containing the FEMA NRI data visualization, data wrangling code, and responses to assignment questions
-- `data/`: Folder containing the FEMA National Risk Index Counties dataset (not tracked in git)
 
 ## Data Access
 
