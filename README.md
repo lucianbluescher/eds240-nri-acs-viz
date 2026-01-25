@@ -1,5 +1,7 @@
 # Visualizing FEMA National Risk Index Data
 
+
+### Final Output Visualization
 <img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/d597f46b-15ff-4d0b-86d9-f797e9c06f8a" />
 
 ### Lucian Scher - 1/25/26
