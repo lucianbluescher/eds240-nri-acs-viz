@@ -31,7 +31,8 @@ eds240-nri-acs-viz/
 The FEMA National Risk Index data used in this project can be accessed through the [FEMA Resilience Analysis and Planning Tool (RAPT)](https://hazards.fema.gov/nri/map)
    - Navigate to RAPT → Click "NRI" in top menu → Find "National Risk Index Counties" layer → Click three dots (⋯) → Export to CSV
 
-**Citation**
+**Citation**:
+
 Federal Emergency Management Agency (FEMA), National Risk Index Dataset: National Risk Index County_National Risk Index_Rating_Composite - v1.20. Retrieved from [FEMA GIS](https://fema.maps.arcgis.com/home/item.html?id=5771b821a2124413b2ee590a73ca338d) on January 25th, 2026, 10:30 am PST. This product uses the FEMA National Risk Index dataset API or downloadable datasets but is not endorsed by FEMA. The Federal Government or FEMA cannot vouch for the data or analyses derived from these data after the data have been retrieved from the Agency's website(s).
 
 **To reproduce the project:**
