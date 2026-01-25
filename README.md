@@ -9,6 +9,7 @@ This repository produces an analysis focusing on data visualization technique pr
 
 This repository is organized as follows:
 
+```
 eds240-nri-acs-viz/
 ├── README.md 
 ├── HW2.qmd # Homework 2: FEMA NRI visualization
@@ -16,7 +17,7 @@ eds240-nri-acs-viz/
 ├── data/ # Data files (gitignored)
 │ └── nri_counties.csv
 └── .gitignore
-
+```
 
 **Key Files:**
 - `HW2.qmd`: Quarto document containing the FEMA NRI data visualization, data wrangling code, and responses to assignment questions
