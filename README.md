@@ -14,12 +14,13 @@ This repository is organized as follows:
 
 ```
 eds240-nri-acs-viz/
-├── README.md 
-├── HW2.qmd # Homework 2: FEMA NRI visualization
-├── HW3.qmd # Homework 3: FEMA NRI + ACS data
-├── data/ # Data files (gitignored)
-│ └── nri_counties.csv
-└── .gitignore
+├── .gitignore
+├── README.md
+├── HW2.qmd
+├── HW2.html
+├── HW2_files/
+├── Visualizing FEMA NRI Data.pdf # Rendered proejct
+└── eds240-nri-acs-viz.Rproj
 ```
 
 **Key Files:**
